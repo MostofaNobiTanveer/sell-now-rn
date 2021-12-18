@@ -7,15 +7,15 @@ import Screen from '../components/Screen';
 const initialMessages = [
   {
     id: 1,
-    title: 'T1',
-    description: 'D1',
-    image: require('../assets/mosh.jpg'),
+    title: 'Title 1',
+    description: 'Description 1',
+    image: require('../assets/user.png'),
   },
   {
     id: 2,
-    title: 'T2',
-    description: 'D2',
-    image: require('../assets/mosh.jpg'),
+    title: 'Title 2',
+    description: 'Description 2',
+    image: require('../assets/user.png'),
   },
 ];
 
